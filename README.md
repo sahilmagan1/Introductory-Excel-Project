@@ -2,6 +2,8 @@
 
 This project is an example case study of data received from a manager to find quarterly volume of sales, and to complete analysis by comparing it to prior quarters. We begin by determining what information the manager is looking for. Next, we clean the data, and explore it using variance and multiple charts. Finally, we develop an analysis of our findings. 
 
+Checkout my data analysis timelapse channel! »  https://youtu.be/jiB9DbwEm74
+
 ## Prerequisites
 
 Download the zip from the following link : https://github.com/mattbrattin/Excel-for-Analytics.git
